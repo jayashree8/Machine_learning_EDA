@@ -15,7 +15,7 @@
     
     3) Number of positive axillary nodes detected (axil_nodes)
     
-    4)Survival status (class attribute) 1 = the patient survived 5 years or longer, 2 = the patient died within 5 year (Surv_status)
+    4) Survival status (class attribute) 1 = the patient survived 5 years or longer, 2 = the patient died within 5 year (Surv_status)
 
 See notebook [here](https://github.com/jayashree8/Machine_learning_EDA/blob/master/Haberman%20EDA/haberman-EDA.ipynb)    
 
@@ -32,7 +32,7 @@ See notebook [here](https://github.com/jayashree8/Machine_learning_EDA/blob/mast
       
      2) SepalLengthCm
       
-     3)SepalWidthCm
+     3) SepalWidthCm
       
      4) PetalLengthCm
       
@@ -62,9 +62,7 @@ See notebook [here](https://github.com/jayashree8/Machine_learning_EDA/blob/mast
 
     result = selling_price - cost_price - (depth_of_tree-1)*sales_commision
 
-    Based on the above model, the net sales commission increases with the depth of tree for a chain increases. If the profit amount is           negative, it will not make economic sense for the company to invest in that chain. 
-
-    And pilot will try to spin off another chain below him to keep the chain profitable 
+#### Based on the above model, the net sales commission increases with the depth of tree for a chain increases. If the profit amount is           negative, it will not make economic sense for the company to invest in that chain. And pilot will try to spin off another chain below him to keep the chain profitable.
 
 See notebook [here](https://github.com/jayashree8/Machine_learning_EDA/blob/master/Pyramid%20scheme%20EDA/Pyramid%20Scheme.ipynb)
 
