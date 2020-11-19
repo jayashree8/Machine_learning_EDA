@@ -1,6 +1,6 @@
 # The repository contains EDA (Exploratory data analysis) models for the following datasets:
 
-## 1)Haberman's Survival Dataset:
+## 1) Haberman's Survival Dataset:
 
 #### A simple dataset contaning cases from a study conducted between 1958 and 1970. The study was conducted at the University of Chicago's Bilings Hospital. The study is on the survival of patients who had undergone surgery for breast cancer. 
 
