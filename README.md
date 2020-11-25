@@ -3,6 +3,10 @@
 ## 1) NumPy:
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/NumPy)
 
+## 2) Pandas:
+See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Pandas)
+
+
 
 # The repository contains EDA (Exploratory data analysis) models for the following datasets:
 
