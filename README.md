@@ -6,6 +6,9 @@ See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_
 ## 2) Pandas:
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Pandas)
 
+## 3) Matplotlib:
+See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/blob/master/Guide/Matplotlib/Matplotlib.ipynb)
+
 
 
 # The repository contains EDA (Exploratory data analysis) models for the following datasets:
