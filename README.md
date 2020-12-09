@@ -8,11 +8,17 @@ Find article [here](https://jayashree8.medium.com/a-complete-guide-on-numpy-for-
 ## 2) Pandas:
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Pandas)
 
+Find article [here](https://jayashree8.medium.com/pandas-in-depth-for-data-science-60abbcb2206)
+
 ## 3) Matplotlib:
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/blob/master/Guide/Matplotlib)
 
+Find article [here](https://jayashree8.medium.com/matplotlib-for-exploratory-data-analysis-a7c71c2d0a90)
+
 ## 4) Seaborn:
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Seaborn)
+
+Find article [here](https://jayashree8.medium.com/using-seaborn-to-perform-data-visualization-c7612f9c470f)
 
 
 # The repository contains EDA (Exploratory data analysis) models for the following datasets:
