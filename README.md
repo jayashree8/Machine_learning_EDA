@@ -9,6 +9,7 @@ Find article [here](https://jayashree8.medium.com/a-complete-guide-on-numpy-for-
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Pandas)
 
 Find article [here](https://jayashree8.medium.com/pandas-in-depth-for-data-science-60abbcb2206)
+
 Find article [here](https://jayashree8.medium.com/data-visualization-using-pandas-cfcde72807b1)
 
 ## 3) Matplotlib:
