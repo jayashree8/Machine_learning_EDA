@@ -22,6 +22,11 @@ See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_
 
 Find article [here](https://jayashree8.medium.com/using-seaborn-to-perform-data-visualization-c7612f9c470f)
 
+## 5) Plotly and Cufflinks:
+See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Plotly)
+
+Find article [here](https://jayashree8.medium.com/interactive-data-visualization-using-plotly-and-cufflinks-228bfbe8773f)
+
 
 # The repository contains EDA (Exploratory data analysis) models for the following datasets:
 
