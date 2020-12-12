@@ -27,6 +27,11 @@ See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_
 
 Find article [here](https://jayashree8.medium.com/interactive-data-visualization-using-plotly-and-cufflinks-228bfbe8773f)
 
+## 6) Geographical plots:
+See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/tree/master/Guide/Geographical%20plotting)
+
+Find article [here](https://jayashree8.medium.com/using-python-for-geographical-plotting-d9328fb8cfab)
+
 
 # The repository contains EDA (Exploratory data analysis) models for the following datasets:
 
