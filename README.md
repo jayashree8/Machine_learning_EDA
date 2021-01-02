@@ -12,6 +12,8 @@ Find article [here](https://jayashree8.medium.com/pandas-in-depth-for-data-scien
 
 Find article [here](https://jayashree8.medium.com/data-visualization-using-pandas-cfcde72807b1)
 
+Find article [here](https://jayashree8.medium.com/how-to-visualize-time-series-data-using-pandas-571646f3e305)
+
 ## 3) Matplotlib:
 See folder with notebooks [here](https://github.com/jayashree8/Machine_learning_EDA/blob/master/Guide/Matplotlib)
 
